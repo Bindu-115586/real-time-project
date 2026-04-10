@@ -1,2 +1,2 @@
-# real time project
+# project
 Online Shopper Purchase Intention Model
